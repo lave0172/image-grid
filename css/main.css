@@ -63,7 +63,7 @@ img {
   }
 
   .photo:last-child {
-    display: flex;
+    display: flex
   }
 
 }
